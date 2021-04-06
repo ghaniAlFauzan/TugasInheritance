@@ -26,7 +26,8 @@ Didalam ruangan terdapat beberapa item, diantaranya adalah roti dan keranjang Ke
 
 **Memperbaiki**
 - Kelas NPC, Pintu,KeranjangMakanan dibuat menjadi kelas turunan dari kelas Item
-- Menambah override method untuk kelas turunan dari Item yaitu method prosesAksi 
+- Menambah override method untuk kelas turunan dari Item yaitu method prosesAksi,setObjGameInfo, dan getAksi. 
+    
  
 
 **Tambahan dari story line**
