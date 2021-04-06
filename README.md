@@ -31,7 +31,7 @@ Didalam ruangan terdapat beberapa item, diantaranya adalah roti dan keranjang ro
  
 
 **Tambahan dari story line**
-- Didalam ruangan terdapat Keranjang makanan yang merupakan objek dari kelas turunan Item yang berisi 3 buah objek item makanan
+- Didalam ruangan terdapat Keranjang makanan yang merupakan objek dari kelas turunan Item yang berisi 3 buah objek item makanan & item lainnya
 - Penjaga sebelum memberi kunci meminta objek kartu pengenal dari player
 
 
