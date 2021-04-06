@@ -20,7 +20,7 @@ Didalam ruangan terdapat beberapa item, diantaranya adalah roti dan keranjang Ke
 **Kelas Tambahan** 
 1. KeranjangMakanan
 
-**Modifikasi kelas (Menggunakan Inheritance) **
+**Modifikasi kelas (Menggunakan Inheritance)**
 -   SuperClass  = Item
     SubClass    = NPC, Pintu, KeranjangMakanan
 
@@ -31,7 +31,7 @@ Didalam ruangan terdapat beberapa item, diantaranya adalah roti dan keranjang Ke
 
 **Tambahan dari story line**
 - Didalam ruangan terdapat Keranjang makanan yang merupakan objek dari kelas turunan Item yang berisi 3 buah objek item makanan
-- Penjaga sebelum memberi kunci meminta objek ayam goreng dari player
+- Penjaga sebelum memberi kunci meminta objek kartu pengenal dari player
 
 
 
